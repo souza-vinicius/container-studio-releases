@@ -15,6 +15,5 @@ Latest release: https://github.com/souza-vinicius/container-studio-releases/rele
 
 ### Homebrew
 ```bash
-brew install --cask container-studio
+brew install --cask souza-vinicius/tap/container-studio
 ```
-
